@@ -1,0 +1,50 @@
+/* Write your CSS here */
+.page {
+  padding: 50px;
+  font-family: 'Roboto';
+}
+.comment-add-section {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+}
+.comment-section-para {
+  color: #475569;
+}
+.actual-add-section {
+  width: 400px;
+}
+.text-input {
+  width: 300px;
+  margin-bottom: 20px;
+  padding: 10px 15px 10px 15px;
+  border: 1px solid #475569;
+  outline: none;
+  border-radius: 5px;
+}
+.text-area-input {
+  font-family: 'Roboto';
+  width: 300px;
+  margin-bottom: 10px;
+  padding: 10px 15px 10px 15px;
+  border: 1px solid #475569;
+  outline: none;
+  border-radius: 5px;
+}
+.btn {
+  background-color: #0284c7;
+  color: white;
+  padding: 10px;
+  border: none;
+  outline: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.commentCount {
+  background-color: #0284c7;
+  color: white;
+  padding: 5px;
+  width: 90px;
+  border-radius: 5px;
+}
